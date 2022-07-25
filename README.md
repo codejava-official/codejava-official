@@ -12,8 +12,12 @@ Check out Java tutorials on our blog listed below:
 - Learn Java threads and concurrency programming: **[Java Concurrency Tutorials](https://www.codejava.net/concurrency-tutorials)**
 
 ### Java SE Tutorials:
+- Learn database programming with Java, see my **[JDBC Tutorials](https://www.codejava.net/jdbc-tutorials)**
 - Learn developing desktop apps with Java, check out **[Swing Tutorials](https://www.codejava.net/swing-tutorials)**
 - For reading and writing files using Java, go to **[Java File I/O Tutorials](https://www.codejava.net/file-io-tutorials)**
+- Learn graphic programming with Java Swing, check out my **[Java Graphics Tutorials](https://www.codejava.net/graphics-tutorials)**
+- For network programming with Java, go to my **[Java Network Tutorials](https://www.codejava.net/java-se/networking)**
+- For programming file transfer via FTP using Java, check **[Java FTP Tutorials](https://www.codejava.net/ftp-tutorials)**
 - To be updated...
 
 ### Check out Java videos on our YouTube channel:
@@ -24,5 +28,7 @@ Check out Java tutorials on our blog listed below:
 - **[Hibernate Tutorials](https://www.youtube.com/watch?v=jk5PWO6fNuo&list=PLR2yPNIFMlL8iXGvlFAS9MwSHUE8aRVRF)**
 - **[Java Web Services Tutorials](https://www.youtube.com/watch?v=dPjZwbNibCI&list=PLR2yPNIFMlL-dbPvTJtCYfE9TE6IwcEDf)**
 - **[Java Database Programming with JDBC](https://www.youtube.com/watch?v=duEkh8ZsFGs&list=PLR2yPNIFMlL-Uxon2z7kSLU45Vi2ehkNO)**
+- **[Amazon S3 Programming with AWS SDK for Java](https://youtube.com/playlist?list=PLR2yPNIFMlL-IPkPcskoK2Un29lL5C6Ix)**
+- **[Java applications deployment on Heroku](https://youtube.com/playlist?list=PLR2yPNIFMlL8e3POU6TcXeXyPr9w3GNIh)**
 - To be updated...
 
