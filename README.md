@@ -18,6 +18,14 @@ Check out Java tutorials on our blog listed below:
 - Learn graphic programming with Java Swing, check out my **[Java Graphics Tutorials](https://www.codejava.net/graphics-tutorials)**
 - For network programming with Java, go to my **[Java Network Tutorials](https://www.codejava.net/java-se/networking)**
 - For programming file transfer via FTP using Java, check **[Java FTP Tutorials](https://www.codejava.net/ftp-tutorials)**
+
+### Java EE Tutorials:
+- Learn Java Servlet programming, check **[Java Servlet Tutorials](https://www.codejava.net/java-servlet-tutorials)**
+- For sending emails with Java, visit **[JavaMail Tutorials](https://www.codejava.net/java-ee/javamail)**
+- Learn Web Services development with Java, go to **[Java Web Services Tutorials](https://www.codejava.net/java-ee/web-services)**
+- Learn JavaServer Pages technology, check out **[JSP Tutorials](https://www.codejava.net/jsp-tutorials)**
+- For JSP Standard Tag Library examples and references, go to **[JSTL Tutorials](https://www.codejava.net/jstl-tutorials)**
+- Learn Java Persistence API (JPA), check this **[JPA Tutorials](https://www.codejava.net/java-ee/jpa)**
 - To be updated...
 
 ### Check out Java videos on our YouTube channel:
