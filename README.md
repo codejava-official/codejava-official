@@ -26,6 +26,13 @@ Check out Java tutorials on our blog listed below:
 - Learn JavaServer Pages technology, check out **[JSP Tutorials](https://www.codejava.net/jsp-tutorials)**
 - For JSP Standard Tag Library examples and references, go to **[JSTL Tutorials](https://www.codejava.net/jstl-tutorials)**
 - Learn Java Persistence API (JPA), check this **[JPA Tutorials](https://www.codejava.net/java-ee/jpa)**
+
+### Java Framework Tutorials:
+- Learn Spring framework from scratch, go to **[Spring Framework Tutorials](https://www.codejava.net/spring-tutorials)**
+- For developing Spring-based apps with Spring Boot, check this **[Spring Boot Tutorials](https://www.codejava.net/spring-boot-tutorials)**
+- For securing Spring-based apps, visit **[Spring Security Tutorials](https://www.codejava.net/spring-security-tutorials)**
+- Learn Hibernate ORM framework, go to **[Hibernate Framework Tutorials](https://www.codejava.net/hibernate-tutorials)**
+- Learn Struts web framework, visit **[Struts Framework Tutorials](https://www.codejava.net/struts-tutorials)**
 - To be updated...
 
 ### Check out Java videos on our YouTube channel:
